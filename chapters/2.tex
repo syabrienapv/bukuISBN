@@ -1,0 +1,176 @@
+\section{Variabel}
+Variabel adalah sebuah tempat untuk menampung value dimemori, dapat dimisalkan seperti sebuah ruangan atau wadah, variabel dibagi dua berdasarkan ruang lingkup yaitu variable lokal dan global, untuk menentukan variabel global atau lokal itu tergantung dari tempat dideklarasikannya variabel pada program yang sedang dibuat. Variabel global yaitu variabel yang dapat diakses di semua lingkup dalam program yang sedang dibuat, dalam kata lain variabel global ini dapat dikenali oleh semua fungsi dan prosedur, sementara variabel lokal yaitu variabel yang dapat diakses hanya di lingkup khusus, dalam kata lain variabel lokal ini hanya bisa diakses pada fungsi/prosedur dimana variabel itu dideklarasikan.
+\par
+Berikut merupakan standar-standar dalam penulisan variabel:
+\begin{enumerate}
+\item Nama variabel diawali dengan huruf atau garis bawah, contoh: nama, \_nama, namaKu, nama\_variabel.
+\item Karakter selanjutnya dapat berupa huruf, garis bawah atau angka, contoh: \_\_nama, nama1, p1.
+\item  Nama variabel tidak boleh diawali dengan angka
+\item Karakter bersifat case-sensitive (huruf besar dan huruf kecil dibedakan), contoh: Nama dan NAMA keduanya memiliki arti yang berbeda dan merupakan variabel yang berbeda.
+\item Nama variabel tidak boleh menggunakan kata kunci yang ada pada bahasa pemrograman python, contoh: if, else, while
+\end{enumerate}
+
+\section{Input dan Output}
+Input \& output bertujuan agar pengguna dan program dapat berinteraksi,Perintah input() berguna untuk meminta inputan dari user, sehingga memungkinkan user untuk menginputkan data.\\
+Perintah print() berguna untuk menampilkan output dari data yang diinputkan oleh user, sehingga data yang diinputkan user dapat ditampilkan ke layar.
+\par
+Contoh dari penggunaan input dan output adalah sebagai berikut:
+\begin{lstlisting}[language=Python]
+#Input yang ditujukan untuk user
+nama=”informatics research center” 
+
+#output yang didapatkan user
+print(“Halo”, nama, ”selamat datang ”)
+\end{lstlisting}
+
+\section{Operasi Aritmatika}
+Python memiliki operasi aritmatika, antara lainnya seperti :
+\begin{enumerate}
+\item penjumlahan (+)
+\item pengurangan (-)
+\item perkalian (*)
+\item pembagian (/)
+\item sisa bagi/modulus (\%)
+\item pemangkatan (**)
+\end{enumerate}
+Penggunaan dari simbol simbol ini sama hal nya dengan fungsi aritmatika pada umumnya.
+
+\section{Perulangan}
+Dalam membuat sebuah program, terkadang kita memerlukan satu baris atau satu blok kode yang sama secara berulang, disini fungsi perulangan dipakai sehingga kita tidak perlu menulis baris atau blok kode yang sama secara terus menerus, dalam python perulangan dibagi menjadi 2, yaitu for dan while.
+
+\subsection{For}
+For merupakan perulangan yang akan mengulang kondisi true sampai batas yang telah ditentukan,  biasanya digunakan untuk perulangan yang mana parameter pengulangannya menggunakan list atau range. Berikut ini merupakan contoh penggunakan sintaks perulangan for.
+\begin{lstlisting}[language=Python]
+for i in range (0 ,10): 
+		print( i )
+\end{lstlisting}
+
+\subsection{While}
+While merupakan perulangan yang akan terjadi apabila kondisinya True, perulangan akan terus berjalan hingga diperoleh kondisi False.erikut ini merupakan contoh penggunakan sintaks perulangan while.
+\begin{lstlisting}[language=Python]
+#perulangan while
+hitung = 0 
+while (hitung < 9): 
+  	print (’hitungan ke :’, hitung) 
+  	hitung = hitung + 1
+ 
+print ("Good bye!")
+\end{lstlisting}
+
+\section{Kondisi}
+Pengambilan keputusan kadang diperlukan dalam sebuah program untuk menentukan tindakan apa yang akan dilakukan sesuai dengan kondisi yang terjadi, contoh kasus misalkan ada seorang anak bernama idam, seorang manusia yang membutuhkan makan, jika idam lapar maka idam akan makan. Maka dapat dijabarkan seperti dibawah ini :\\
+\\
+Kondisi, jika : \\
+Idam lapar \\
+Maka : \\
+Idam akan makan\\
+Namun terkadang kondisi juga diberikan tambahan opsi sebuah kondisi tambahan, misalkan jika idam makan maka idam kenyang, namun jika tidak maka idam akan kelaparan. Penjabarannya dapat dilihat sebagai berikut :\\
+\\
+Kondisi, jika :\\
+ Idam makan \\
+ Maka : \\
+ Idam akan kenyang \\
+ Jika tidak : \\
+ Idam akan kelaparan\\
+Contoh diatas dapat ditulis dalam sintax python dengan menggunakan kondisi, pengkondisiian dalam python dibagi menjadi 4, yaitu : IF, IF ELSE, ELIF, nested IF. Berikut merupakan pembahasannya.
+
+\subsubsection{IF}
+ IF  adalah suatu struktur yang memiliki suatu perlakuan jika terjadi suatu kondisi. Akan tetapi, tidak terjadi sesuatu yang lain atau terjadi apa-apa ketika berada di dalam luar kondisi tersebut. IF hanya menjalankan satu kondisi dan menampilkan satu output. Contoh: kondisi dimana variabel a lebih besar dari variabel b, maka tampilkan hasil bahwa a lebih besar dari b.
+\begin{lstlisting}[language=Python]
+#if statement 
+a = 330 
+b = 200 
+if a > a: 
+	print("a lebih besar dari b")
+\end{lstlisting}
+
+\subsubsection{IF ELSE}
+IF ELSE digunakan apabila kondisi yang terjadi bernilai salah, maka lakukan else. Contoh: kondisi dimana variabel a lebih besar dari variabel b, maka jika b lebih besar dari a, tampiilkan hasil b lebih besar dari a, jika salah maka tampilkan a lebih besar dari pada b
+\begin{lstlisting}[language=Python]
+ #else 
+a = 200 
+b = 33 
+if b > a: 
+	print("b is greater than a") 
+else: 
+	print("a is greater than b")
+\end{lstlisting}
+
+\subsubsection{ELIF}
+Kondisi ELIF merupakan suatu strktur logika majemuk yang memiliki banyak pilihan aksi terhadap berbagai kemungkinan kejadian yang terjadi. ELIF digunakan apabila kondisi pertama tidak benar maka lakukan kondisi lain (alternatif). Contoh: kondisi dimana variabel a sama dengan variabel b, maka jika b lebih besar dari a, tampiilkan hasil b lebih besar dari a, namun jika a dan b bernilai sama, maka tampilkan a sama dengan b
+\begin{lstlisting}[language=Python]
+#elif 
+a = 33 
+b = 33 
+if b > a: 
+ 	print("b lebih besar dari a") 
+elif a == b: 
+ 	print("a sama dengan b")
+\end{lstlisting}
+
+\subsubsection{Nested IF}
+Nested if merupakan if didalam if (if bersarang), terdapat dua if didalam satu kondisi. Contoh: variabel x sama dengan 41, kondisi pertama yaitu jika x besar dari 10 maka tampilkan lebih besar dari 10, kondisi kedua yaitu jika x besar dari 20, maka tampilkan lebih besar dari 20, jika salah maka tampilkan tidak melebihi 20.
+\begin{lstlisting}[language=Python]
+#nested if 
+x = 41
+ 
+if x > 10: 
+ print("lebih besar dari 10,") 
+ if x > 20: 
+	 print("lebih besar dari 20!") 
+ else: 
+	 print("tidak melebihi 20.")
+\end{lstlisting}
+
+\section{Error}
+\begin{enumerate}
+\item NameError, terjadi apabila kode mengeksekusi nama yang tidak terdefenisikan. Contoh:
+\begin{lstlisting}
+nama = "Dinda Majesty"
+print(Nama)
+\end{lstlisting}
+
+Maka akan menghasilkan output NameError: name ’Nama’ is not deﬁned. error ini dapat diatasi dengan mengubah variabel yang di print sesuai dengan variabel yang didefenisikan, karena penulisan pada pyton bersifat case-sensitive
+
+\item SyntaxError, terjadi apabila kode python mengalami kesalahan saat penulisan. Contoh: menuliskan variabel yang didahului angka (1nama = ”Dinda Majesty”) maka akan muncul eror SyntaxError: invalid syntax. error ini dapat diatasi dengan memperhatikan tata cara penulisan kode pada bahasa pemrograman python.
+
+\item Logic error merupakan kesalahan yang terjadi karena kesalahan pembacaan data pada command perintah seperti data tidak terbaca atau tidak ada, dan tidak sesuai dengan aturannya. Contoh kesalahan tipe data yaitu 
+\begin{lstlisting}
+a=’4’ 
+b=6 
+
+print(a+b)
+\end{lstlisting}
+
+
+\item TypeError, terjadi apabila kode melakukan operasi atau fungsi terhadap tipe data yang tidak sesuai. Contoh: melakukan penjumlahan terhadap tipe data string dan integer. eror ini dapat diatasi dengan mengubah tipe data string menjadi integer.
+\begin{lstlisting}
+a = "10"
+b = 5
+
+print(a + b)
+\end{lstlisting}
+Maka akan menghasilkan output eror TypeError: can only concatenate str (not ”int”) to str
+
+\item IdentationError, terjadi apabila kode perulangan atau pengkondisian tidak menjorok kedalam (tidak menggunakan identasi), error ini dapat diatasi dengan menambahkan tab atau spasi. Contoh
+\begin{lstlisting}
+a = 200 
+b = 330 
+
+if b > a: 
+print("b lebih besar dari a")
+\end{lstlisting}
+Maka akan menghasilkan output eror IndentationError: expected an indented block
+\end{enumerate}
+
+\section{Try Except}
+Try Except merupakan salah satu bentuk penangan error di dalam bahasa pemrograman python, perintah try except ini memiliki fungsi untuk menangkap sebuah error dan tetap menjalankan program kita, sehingga program yang sedang dijalankan akan mengeksekusi program hingga akhir. Contohnya terdapat pada listing berikut
+\begin{lstlisting}[language=Python]
+a="1"
+b=2
+
+try:
+	a+b
+except:
+	print("Error, kedua tipe data berbeda")
+\end{lstlisting}

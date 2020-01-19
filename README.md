@@ -1,2 +1,2 @@
-# bukuISBN
-ini adalah buku
+# Template
+Template untuk buku informatika standar
