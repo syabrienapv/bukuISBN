@@ -1,0 +1,815 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.10.14)  20 JAN 2020 17:08
+entering extended mode
+**d:/KOOLYEAH/Project2/bukuISBN/main.tex
+(d:/KOOLYEAH/Project2/bukuISBN/main.tex
+LaTeX2e <2019-10-01>
+(d:\KOOLYEAH\Project2\bukuISBN\wileysix.cls
+
+
+ Wiley Book Style, Design No.: SD 001C
+ and SD 004B
+ 
+ Written by Amy Hendrickson, TeXnology, Inc.
+ 
+ This version is dated Feb 16, 2011
+
+
+\phspace=\dimen102
+\SpaceAboveChapterNumber=\dimen103
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\partskip=\skip43
+\tabandfigskip=\skip44
+\footnum=\count93
+\savefootnum=\count94
+\@indexfile=\write3
+\openout3 = `main.idx'.
+
+Writing index file main.idx
+\iletterskip=\skip45
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
+\c@subproblem=\count100
+\c@subproblem=\count101
+\widthofcropmarks=\dimen104
+\raisetopcropmarks=\dimen105
+\raisebottomcropmarks=\dimen106
+\movecropmarksright=\dimen107
+\c@theorem=\count102
+\c@appfootnote=\count103
+\slugwidth=\dimen108
+\slugheight=\dimen109
+\slugdepth=\dimen110
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
+\chapskip=\dimen111
+\chapheight=\dimen112
+\authorskip=\dimen113
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\graphics.sty
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\listings.sty
+\lst@mode=\count107
+\lst@gtempboxa=\box27
+\lst@token=\toks15
+\lst@length=\count108
+\lst@currlwidth=\dimen116
+\lst@column=\count109
+\lst@pos=\count110
+\lst@lostspace=\dimen117
+\lst@width=\dimen118
+\lst@newlines=\count111
+\lst@lineno=\count112
+\lst@maxwidth=\dimen119
+ (D:\KOOLYEAH\LatexApp\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count113
+\lst@skipnumbers=\count114
+\lst@framebox=\box28
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (D:\KOOLYEAH\LatexApp\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count115
+\float@exts=\toks16
+\float@box=\box29
+\@float@everytoks=\toks17
+\@floatcapt=\box30
+) (D:\KOOLYEAH\LatexApp\tex/latex/graphics\color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ (D:\KOOLYEAH\LatexApp\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (D:\KOOLYEAH\LatexApp\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) (d:\KOOLYEAH\Project2\bukuISBN\w-bookps.sty
+
+
+ Using PostScript Fonts
+
+ Wiley Monograph/Edited Book Style
+ Feb 16, 2012
+
+ 
+)
+\sectsavebox=\box31
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 128.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 128.
+ (d:\KOOLYEAH\Project2\bukuISBN\main.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 133.
+LaTeX Font Info:    ... okay on input line 133.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 133.
+ (D:\KOOLYEAH\LatexApp\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (D:\KOOLYEAH\LatexApp\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count116
+\scratchdimen=\dimen120
+\scratchbox=\box32
+\nofMPsegments=\count117
+\nofMParguments=\count118
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen121
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
+\everyMPtoPDFconversion=\toks19
+) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (D:\KOOLYEAH\LatexApp\tex/latex/oberdiek\kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
+ (D:\KOOLYEAH\LatexApp\tex/generic/oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count122
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 153.
+ [1{C:/Users/Faris Fatin 32/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 155.
+<kreatiflogo.png, id=9, 437.635pt x 207.77625pt>
+File: kreatiflogo.png Graphic file (type png)
+<use kreatiflogo.png>
+Package pdftex.def Info: kreatiflogo.png  used on input line 155.
+(pdftex.def)             Requested size: 122.85876pt x 58.32912pt.
+ [3 <d:/KOOLYEAH/Project2/bukuISBN/kreatiflogo.png>] (d:\KOOLYEAH\Project2\bukuISBN\info/copyrightpage.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+[4]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 172.
+ (d:\KOOLYEAH\Project2\bukuISBN\main.toc) [5
+
+] [6
+
+] (d:\KOOLYEAH\Project2\bukuISBN\main.toc
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+ [] []  
+ []
+
+[7])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8] (d:\KOOLYEAH\Project2\bukuISBN\main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+ [9
+
+] [10
+
+] (d:\KOOLYEAH\Project2\bukuISBN\main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [11] [12
+
+] (d:\KOOLYEAH\Project2\bukuISBN\main.lol)
+\tf@lol=\write7
+\openout7 = `main.lol'.
+
+ [13] [14
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/foreword.tex) [15] [16
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/preface.tex) [17] [18
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/acknowledgments.tex [19]) [20
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/acronyms.tex)
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 194.
+(D:\KOOLYEAH\LatexApp\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [21] [22
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/glossary.tex)
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[23] [24
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/symbols.tex)
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[25] [26
+
+] (d:\KOOLYEAH\Project2\bukuISBN\info/introduction.tex) [27] [28
+
+]
+Bab 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 210.
+(d:\KOOLYEAH\Project2\bukuISBN\chapters/1.tex
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[1] [2
+
+]
+Bab 2.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 3.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 5.
+
+<pictures/logo_android.jpg, id=110, 1204.5pt x 803.0pt>
+File: pictures/logo_android.jpg Graphic file (type jpg)
+<use pictures/logo_android.jpg>
+Package pdftex.def Info: pictures/logo_android.jpg  used on input line 7.
+(pdftex.def)             Requested size: 240.89574pt x 160.59715pt.
+
+Overfull \hbox (1.61674pt too wide) in paragraph at lines 11--12
+\OT1/ptm/m/n/10 Lisensi Apache adalah se-buah lisensi perangkat lunak-bebas yang di-t-ulis oleh Apache
+ []
+
+
+Overfull \hbox (0.50803pt too wide) in paragraph at lines 13--16
+\OT1/ptm/m/n/10 sung, LG, Asus, Lenovo, HTC, dan lain se-ba-gainya. Se-lain pada \OT1/ptm/m/it/10 smart-phone\OT1/ptm/m/n/10 , Google
+ []
+
+
+Overfull \hbox (9.32697pt too wide) in paragraph at lines 13--16
+\OT1/ptm/m/n/10 An-droid Wear un-tuk jam tan-gan, yang masing-masing memi-liki in-ter-face yang berbeda.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4 <d:/KOOLYEAH/Project2/bukuISBN/pictures/logo_android.jpg>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 22.
+
+Overfull \hbox (4.02791pt too wide) in paragraph at lines 24--26
+\OT1/ptm/m/n/10 pelun-cu-ran-nya, An-droid juga su-dah dilengkapi ap-likasi Google Maps dan dukun-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 27.
+
+<pictures/asd.jpg, id=119, 501.875pt x 501.875pt>
+File: pictures/asd.jpg Graphic file (type jpg)
+<use pictures/asd.jpg>
+Package pdftex.def Info: pictures/asd.jpg  used on input line 29.
+(pdftex.def)             Requested size: 150.56366pt x 150.56366pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5 <d:/KOOLYEAH/Project2/bukuISBN/pictures/asd.jpg>]
+Overfull \hbox (0.16713pt too wide) in paragraph at lines 45--46
+[]\OT1/ptm/m/n/10 Google Sync, memu-ngkinkan pen-gelo-laan sinkro-nisasi pada ap-likasi Gmail,
+ []
+
+
+Overfull \hbox (3.31787pt too wide) in paragraph at lines 51--52
+[]\OT1/ptm/m/n/10 Voice Di-aler, memu-ngkinkan peng-guna un-tuk me-mang-gil kon-tak tanpa harus
+ []
+
+
+Overfull \hbox (0.77795pt too wide) in paragraph at lines 52--53
+[]\OT1/ptm/m/n/10 Wallpaper, memu-ngkinkan peng-guna un-tuk men-gatur gam-bar latar be-lakang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 93.
+
+<pictures/android_donut.jpg, id=127, 602.25pt x 250.9375pt>
+File: pictures/android_donut.jpg Graphic file (type jpg)
+<use pictures/android_donut.jpg>
+Package pdftex.def Info: pictures/android_donut.jpg  used on input line 95.
+(pdftex.def)             Requested size: 301.12425pt x 125.46843pt.
+
+Overfull \hbox (0.28806pt too wide) in paragraph at lines 102--103
+[]\OT1/ptm/m/n/10 Kemampuan bagi para pengem-bang un-tuk meny-er-takan kon-ten mereka pada
+ []
+
+
+Overfull \hbox (19.27785pt too wide) in paragraph at lines 106--108
+[]\OT1/ptm/m/n/10 Kemampuan memilih banyak foto un-tuk di-ha-pus Pem-baruan dukun-gan teknologi
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 123.
+
+<pictures/android-eclair.jpg, id=131, 481.8pt x 319.1925pt>
+File: pictures/android-eclair.jpg Graphic file (type jpg)
+<use pictures/android-eclair.jpg>
+Package pdftex.def Info: pictures/android-eclair.jpg  used on input line 125.
+(pdftex.def)             Requested size: 144.5411pt x 95.75848pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android_donut.jpg>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-eclair.jpg>]
+Overfull \hbox (0.3671pt too wide) in paragraph at lines 169--170
+\OT1/ptm/m/n/10 pen-car-ian otoma-tis, GAL, sinkro-nisasi kalen-der, dan pem-ber-si-han jarak jauh 
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ≥ in font ptmr7t!
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10]
+Overfull \hbox (4.94746pt too wide) in paragraph at lines 201--202
+[]\OT1/ptm/m/n/10 Peningkatan kual-i-tas au-dio, grafis, dan ma-sukan bagi pengem-bang per-mainan 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 206.
+
+<pictures/android-honeycomb.png, id=142, 1606.0pt x 1603.9925pt>
+File: pictures/android-honeycomb.png Graphic file (type png)
+<use pictures/android-honeycomb.png>
+Package pdftex.def Info: pictures/android-honeycomb.png  used on input line 208.
+(pdftex.def)             Requested size: 160.6094pt x 160.40865pt.
+
+Overfull \hbox (11.7474pt too wide) in paragraph at lines 212--213
+\OT1/ptm/m/n/10 pada bu-lan Febru-ari 2011 silam. Na-mun, versi ini lebih di-tu-jukkan un-tuk perangkat
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-honeycomb.png>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (10.36852pt too wide) in paragraph at lines 286--287
+\OT1/ptm/m/n/10 nya per-tukaran jarak pen-dek book-mark web, info kon-tak, arah, video YouTube,
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14]
+Overfull \hbox (14.56792pt too wide) in paragraph at lines 315--316
+[]\OT1/ptm/m/n/10 Penjelajah web bawaan An-droid di-ganti den-gan Google Chrome pada perangkat
+ []
+
+
+Overfull \hbox (3.74724pt too wide) in paragraph at lines 319--321
+\OT1/ptm/m/n/10 men-da-p-atkan pem-ba-haru-an/up-date fi-tur. Seperti, ter-da-p-at-nya fi-tur Screen record-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[15]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (4.62788pt too wide) in paragraph at lines 346--347
+[]\OT1/ptm/m/n/10 Project volta, yang berguna un-tuk meningkatkan daya hidup bat-erai 30 persen
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ò in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (10.80695pt too wide) in paragraph at lines 353--354
+[]\OT1/ptm/m/n/10 Android Marsh-mal-low mem-perke-nalkan model izin yang dide-sain ulang: sekarang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--354
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (1.32741pt too wide) in paragraph at lines 357--358
+\OT1/ptm/m/n/10 mem-perke-nalkan pranala yang di-ver-i-fikasi yang da-pat dikon-fig-urasi un-tuk mem-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Overfull \hbox (12.52773pt too wide) in paragraph at lines 361--363
+\OT1/ptm/m/n/10 Android Nougat versi 7.0 dirilis pada bu-lan Agus-tus 2016 yang lebih meningkatkan
+ []
+
+
+Overfull \hbox (30.94702pt too wide) in paragraph at lines 361--363
+\OT1/ptm/m/n/10 banyak fitur-fitur baru yang di-antaranya seperti su-dah da-pat mul-ti-task-ing, meningkatkan
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 384.
+
+<pictures/android-studio.png, id=163, 2007.5pt x 2007.5pt>
+File: pictures/android-studio.png Graphic file (type png)
+<use pictures/android-studio.png>
+Package pdftex.def Info: pictures/android-studio.png  used on input line 386.
+(pdftex.def)             Requested size: 200.76175pt x 200.76175pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <d:/KOOLYEAH/Project2/bukuISBN/pictures/android-studio.png>]
+Bab 3.
+(d:\KOOLYEAH\Project2\bukuISBN\chapters/4.tex
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[19
+
+] [20
+
+]
+Bab 4.
+) (d:\KOOLYEAH\Project2\bukuISBN\main.bbl
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[21] [22
+
+])
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[23] [24
+
+] (d:\KOOLYEAH\Project2\bukuISBN\main.ind
+
+
+ !! Please enter {\offprintinfo{(Title, Edition)}{(Author)}
+ at the beginning of your document.!!
+
+}
+[25
+
+
+]) (d:\KOOLYEAH\Project2\bukuISBN\main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3366 strings out of 492452
+ 48206 string characters out of 3133058
+ 306868 words of memory out of 3000000
+ 7605 multiletter control sequences out of 15000+200000
+ 64033 words of font info for 116 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,8n,47p,1388b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/KOOLYEAH/LatexApp/fonts/enc/dvips/base/8r.enc}<D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/courier/ucrr8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmb8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmbi8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmr8a.pfb><D:/KOOLYEAH/LatexApp/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:\KOOLYEAH\Project2\bukuISBN\main.pdf (53 pages, 1206030 bytes).
+PDF statistics:
+ 234 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

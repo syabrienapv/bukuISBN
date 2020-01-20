@@ -1,0 +1,20 @@
+\contentsline {schapter}{Daftar Gambar}{ix}% 
+\contentsline {schapter}{Daftar Tabel}{xi}% 
+\contentsline {schapter}{Foreword}{xv}% 
+\contentsline {schapter}{Kata Pengantar}{xvii}% 
+\contentsline {schapter}{Acknowledgments}{xix}% 
+\contentsline {schapter}{Acronyms}{xxi}% 
+\contentsline {schapter}{Glossary}{xxiii}% 
+\contentsline {schapter}{List of Symbols}{xxv}% 
+\contentsline {schapter}{Introduction}{xxvii}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxvii}% 
+\contentsline {chapter}{\numberline {1}Android}{1}% 
+\contentsline {chapter}{\numberline {2}\textit {Android}}{3}% 
+\contentsline {section}{\numberline {2.1}Sejarah \textit {Android}}{3}% 
+\contentsline {section}{\numberline {2.2}Versi Pada Android}{4}% 
+\contentsline {section}{\numberline {2.3} Sejarah Android Studio}{18}% 
+\contentsline {chapter}{\numberline {3}Java}{19}% 
+\contentsline {chapter}{\numberline {4}\textit {Java}}{21}% 
+\contentsline {section}{\numberline {4.1}Sejarah \textit {Java}}{21}% 
+\contentsline {schapter}{Daftar Pustaka}{23}% 
+\contentsline {schapter}{Index}{25}% 
