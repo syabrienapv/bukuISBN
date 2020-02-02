@@ -22,17 +22,14 @@
 %\documentclass{wileySev}
 
 % 6x9
+\documentclass{wileySix}
 
-\documentclass{wileysix}
-\UseRawInputEncoding
 \usepackage{graphicx}
 \usepackage{listings}
-
 \usepackage{float}
+\usepackage{indentfirst}
 
 \usepackage{color}
-
-%\usepackage[b5paper]{geometry}
  
 \definecolor{codegreen}{rgb}{0,0.6,0}
 \definecolor{codegray}{rgb}{0.5,0.5,0.5}
@@ -133,17 +130,16 @@
 \begin{document}
 
 
-\booktitle{Dasar - Dasar Android}
-\subtitle{}
+\booktitle{APLIKASI QEUANGANS}
+\subtitle{Dengan Android}
 
-\authors{Faris Muhammad Ihsan\\
-Syabriena Putri Veriane\\
+\authors{Faris Muhammad Ihsan, Syabriena Putri Veriane\\
 \affil{Politeknik Pos Indonesia}
 %Floyd J. Fowler, Jr.\\
 %\affil{University of New Mexico}
 }
 
-%\offprintinfo{Cerdas Menguasai Git, First Edition}{Rolly M. Awangga}
+\offprintinfo{Cerdas Menguasai Git, First Edition}{Rolly M. Awangga}
 
 %% Can use \\ if title, and edition are too wide, ie,
 %% \offprintinfo{Survey Methodology,\\ Second Edition}{Robert M. Groves}
@@ -159,15 +155,13 @@ Syabriena Putri Veriane\\
 \input{info/copyrightpage}
 \end{copyrightpage}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%% \dedication{`Jika Kamu tidak dapat menahan lelahnya belajar, 
-%% aka kamu harus sanggup menahan perihnya Kebodohan.'
-%% ~Imam Syafi'i~}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\dedication{`Jika Kamu tidak dapat menahan lelahnya belajar, 
+Maka kamu harus sanggup menahan perihnya Kebodohan.'
+~Imam Syafi'i~}
 
-%\begin{contributors}
-%\input{info/contributors}
-%\end{contributors}
+\begin{contributors}
+\input{info/contributors}
+\end{contributors}
 
 \contentsinbrief
 \tableofcontents
@@ -206,19 +200,34 @@ Syabriena Putri Veriane\\
 \end{introduction}
 
 %%%%%%%%%%%%%%%%%%Isi Buku_
+\chapter{Sejarah Android}
+\input{chapters/Sejarah-Android}
 
-\chapter{Android}
-\input{chapters/1}
+\chapter{Android Studio}
+\input{chapters/Android-Studio}
 
-\chapter{Java}
-\input{chapters/4}
 
-%\chapter{Judul Bagian Kedua}
-%\input{chapters/2}
-
-%\chapter{Fungsi dan Kelas}
-%\input{chapters/3}
-
+%\begin{references}{Ham62}
+%\bibitem[Kil76]{kilb}J. S. Kilby,
+%``Invention of the Integrated Circuit,'' {\it IEEE Trans. Electron Devices,}
+%{\bf ED-23,} 648 (1976).
+%
+%\bibitem[Ham62]{hamm}R. W. Hamming,
+%                 {\it Numerical Methods for Scientists and 
+%                 Engineers}, Chapter N-1, McGraw-Hill, 
+%                 New York, 1962.
+%
+%\bibitem[Hu86]{lee}J. Lee, K. Mayaram, and C. Hu, ``A Theoretical
+%               Study of Gate/Drain Offset in LDD MOSFETs''
+%                     {\it IEEE Electron Device Lett.,} {\bf EDL-7}(3). 152 
+%                     (1986).
+%
+%\bibitem[Ber87]{berm}A. Berenbaum, 
+%B. W. Colbry, D.R. Ditzel, R. D Freeman, and 
+%K.J. O'Connor, ``A Pipelined 32b Microprocessor with 13 kb of Cache Memory,''
+%{it Int. Solid State Circuit Conf., Dig. Tech. Pap.,} p. 34 (1987).
+%
+%\end{references}
 
 
 \bibliographystyle{IEEEtran} 
@@ -282,5 +291,4 @@ Syabriena Putri Veriane\\
 %% \multiprintindex{authors}{Author index}
 
 \end{document}
-
 
