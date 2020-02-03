@@ -1,10 +1,123 @@
-\section{Sejarah Android Studio}
 \begin{figure}[!htbp]
     \centering
-    \includegraphics[scale=0.05]{pictures/android-studio.png}
+    \includegraphics[scale=0.1]{pictures/android-studio.png}
     \caption{Android Studio}
     \label{}
 \end{figure}
 Pertama kali muncul Android Inc merupakan sebuah perusahaan software kecil yang didirikan pada bulan Oktober 2003 di Palo Alto, California, USA. Perusahaan ini dibangun oleh beberapa senior di beberpa perusahaan yang berbasis IT dan Communication, Andy Rubin, Rich Miner, Nick Sears dan Chris White. Rubin menyatakan bahwa, Android Inc Didirikan untuk mewujudkan mobile device yang lebih fleksibel terhadap lokasi dan preferensi pemilik. Sehingga, Android Inc ingin mewujudkan mobile device yang lebih mengerti pemiliknya selain karena OS nya yang open source. Berawal dari konsepan inilah Android Inc ternyata menarik minat Google untuk memilikinya. Maka, pada bulan Agustus 2005, Akhirnya Android Inc diakuisisi oleh Google Inc. dan seluruh sahamnya dibeli oleh Google.
 
 Perusahaan milik Andy Rubin, Rich Miner, Nick Sears dan Chris White tetap di Android Inc yang dibeli Google, sehingga akhirnya mereka pun ikut  menjadi bagian dari raksasa Google dan sejarah Android. Disini mereka mulai menggunakan platform Linux untuk membuat sistem operasi bagi mobile phone.Dari sinilah akhirnya banyak pengembang sistem maupun software yang mengembangkan maupun merancang sistem Android menggunakan software – software yang support dengan Android, Contohnya ialah : Android Studio.
+
+Berikut akan diulas beberapa alasan mengapa memahami Android Studio itu penting untuk dilakukan :
+\begin{enumerate}
+    \item Dengan mempelajari Android Studio dapat membantu Anda untuk mempercepat pembuatan aplikasi yang Anda inginkan.
+    \item Android Studio merupakan sebuah tools yang mudah dipahami dan digunakan.
+    \item Dalam satu tools ini Anda bisa mendapatkan berbagai manfaat mulai dari pembuatan aplikasi hingga testing aplikasi.
+    \item Belajar Android Studio maka Anda bisa menghemat waktu kerja untuk dapat lebih produktif.
+    \item Dapat memperdalam ilmu codingan dengan baik. Karena dalam android studi diberikan beberapa referensi ketika Anda mengetik sintaks. Dengan begitu tentunya Anda akan mencari tahu apa saja kegunaan dari sintaks yang terdapat.
+    \item Sarana pembelajaran coding dan pembuatan aplikasi yang baik dan praktis hanya dengan Android Studio.
+\end{enumerate}
+
+\section{Android Studio}
+Pertama kali Android Studio diumumkan di Google I/O Conference pada tahun 2013 dan dirilis ke publik pada tahun 2014. Sebelum lahirnya Android Studio, aplikasi pada Android dikembangkan dengann Eclipse IDE yaitu IDE Java. Setelah adanya android studio yang open source dapat memudahkan bagi Anda yang ingin membuat aplikasi dengan Android Studio.
+
+Android dapat menyediakan interface untuk Anda dalam membuat aplikasi serta mengelola manajemen filen aplikasi anda.  Untuk bahasa programman anda gunakan adalah Java. Dalam Android Studio, anda hanya tinggal menulis, mengedit, menyimpan  dan testing project beserta dan file lainnya yang ada dalam project itu hanya dengan android studio.
+
+Tidak hanya itu, keunggulan menggunakan Android Studio juga memberi Anda akses ke Android Software Development Kit (SDK). SDK adalah sebuah ekstensi dari kode Java yang memperbolehkannya untuk berjalan dengan mulus di device Android. Untuk, Java nya dibutuhkan untuk menulis program, Android SDK sangat diperlukan untuk menjalankan programnya di Android. Maka dari itu dengan menggabungkan keduanya, Anda memerlukan Android Studio. Sehingga ketika Anda menemukan bug pada aplikasi Anda, Anda bisa mengetahui bug tersebut dengan menggunakan Android Studio untuk memperbaikinya.
+
+Berikut ini adalah beberapa fitur Android Studio:
+\begin{enumerate}
+    \item Environment yang mempermudah Anda untuk mengembangkan aplikasi untuk Android
+    \item Support dalam mengembangkan aplikasi Android TV dan Android Wear
+    \item Template untuk menentukan design dan komponen Android
+    \item Editor layout dengan interface drag-and-drop
+    \item Refactoring dan perbaikan cepat khusus Android
+    \item Dukungan build berbasis Gradle
+    \item Integrasi ProGuard
+    \item Emulator yang cepat dan berbagai fitur didalamnya
+    \item Dapat terintegrasi dengan Google Cloud Messaging dan App Engine
+    \item Dukungan program basic C++ dan NDK
+\end{enumerate}
+
+Android Studio adalah Lingkungan Pengembangan Terpadu (Integrated Development Environment/IDE) resmi untuk pengembangan aplikasi Android, yang didasarkan pada IntelliJ IDEA. Selain sebagai editor kode dan fitur developer IntelliJ yang andal, Android Studio menawarkan banyak fitur yang meningkatkan produktivitas Anda dalam membuat aplikasi Android, seperti:
+\begin{enumerate}
+    \item Sistem build berbasis Gradle yang fleksibel
+    \item Emulator yang cepat dan kaya fitur
+    \item Lingkungan terpadu tempat Anda bisa mengembangkan aplikasi untuk semua perangkat Android
+    \item Terapkan Perubahan untuk melakukan push pada perubahan kode dan resource ke aplikasi yang sedang berjalan tanpa memulai ulang aplikasi
+    \item Template kode dan integrasi GitHub untuk membantu Anda membuat fitur aplikasi umum dan mengimpor kode sampel
+    \item Framework dan fitur pengujian yang lengkap
+    \item Fitur lint untuk merekam performa, kegunaan, kompatibilitas versi, dan masalah lainnya
+    \item Dukungan C++ dan NDK
+    \item Dukungan bawaan untuk Google Cloud Platform, yang memudahkan integrasi Google Cloud Messaging dan App Engine
+\end{enumerate}
+
+Setiap project di Android Studio berisi satu atau beberapa modul dengan file kode sumber dan file resource. Jenis modul meliputi:
+\begin{enumerate} 
+   \item Modul aplikasi Android
+    \item Modul library
+    \item Modul Google App Engine
+\end{enumerate}
+
+Secara default, Android Studio menampilkan file project Anda dalam tampilan project Android, seperti yang ditunjukkan. Tampilan ini disusun menurut modul untuk memberikan akses cepat ke file sumber utama project Anda. Semua file build terlihat di tingkat teratas di bagian \textbf{Gradle Script} dan setiap modul aplikasi berisi folder berikut:
+\begin{enumerate}
+    \item manifests: Berisi file AndroidManifest.xml.
+    \item java: Berisi file kode sumber Java, termasuk kode pengujian JUnit.
+    \item res: Berisi semua resource non-kode, seperti tata letak XML, string UI, dan gambar bitmap.
+\end{enumerate}
+
+Struktur project Android pada disk berbeda dengan representasi tersatukan ini. Untuk melihat struktur file project sebenarnya, pilih \textbf{Project} dari menu drop-down Project.
+
+Anda juga dapat menyesuaikan tampilan file project untuk berfokus pada aspek spesifik dari pengembangan aplikasi Anda. Misalnya, memilih tampilan \textbf{Problems} pada project Anda akan menampilkan link ke file sumber yang berisi error coding dan sintaks yang dikenali, seperti tag penutup elemen XML yang tidak ada dalam file tata letak.
+
+\subsection{Langkah Download Android Studio}
+Cara mendownload Android studio cukup mudah yaitu dengan \textbf{https://developer.android.com/studio/?gclid=Cj0KEQiAm-CyBRDx65nBhcmVtbIBEiQA7zm8lWCaBd9n9KYYunFXxXsQCPojBVHk5eIH4p9CWM1eLfUaAmd28P8HAQ} yang merupakan laman website resmi Android dan terdapat SDK berbagai macam jenis didalamnya. Tetapi untuk menjalankan Android Studio Anda juga perlu mendownload Java Development Kit dengan \textbf{https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html}.
+
+Berikut ini adalah syarat instalasi untuk berbagai sistem operasi :
+Windows OS
+\begin{enumerate}
+    \item Microsoft Windows 7/8/10
+    \item Minimum RAM 2GB, direkomendasikan Anda menggunakan RAM 8GB
+    \item Minimum space disk tersedia 2GB, tetapi Anda direkomendasikan menyediakan 4GB (500MB untuk IDE, 1,5GB untuk Android SDK, dan emulator sistem gambar)
+    \item Resolusi minimum 1280  800
+    \item Java Development Kit 8
+\end{enumerate}
+
+MAC OS
+\begin{enumerate}
+    \item MAC OS X 10.8.5 atau lebih – sampai dengan 10.11.4 (El Capitan)
+    \item Minimum RAM 2GB, direkomendasikan Anda menggunakan RAM 8GB
+    \item Minimum space disk tersedia 2GB, tetapi Anda direkomendasikan menyediakan 4GB (500MB untuk IDE, 1,5GB untuk Android SDK, dan emulator sistem gambar)
+    \item Resolusi minimum 1280  800
+    \item Java Development Kit 6
+ \end{enumerate}
+
+LINUX OS
+\begin{enumerate}
+    \item Desktop GNOME atau KDE
+    \item 64-bit distribution yang bisa menjalankan aplikasi 32-bit
+    \item GNU C Library (glibc) 2.11 atau versi selanjutnya
+    \item Minimum RAM 2GB
+    \item Minimum space disk tersedia 2GB, tetapi Anda direkomendasikan menyediakan 4GB
+    \item Resolusi minimum 1280  800
+    \item Java Development Kit 8
+\end{enumerate}
+
+
+\subsection{Cara Install Android Studio}
+Pertama sebelum anda menginstall Android Studio, Anda harus terlebih dahulu menginstal Java Development Kit-nya. Caranya ialah Anda tinggal membuka installer Java Development Kit yang sudah ada mengunduh sebelumnya, kemudian selanjutnya ikuti langkah yang mereka tunjukkan.
+
+Setelah itu, Anda sudah bisa menginstall Android Studio dengan mengikuti langkah di bawah ini:
+\begin{enumerate}
+\item Buka installer Android Studio yang sudah ada unduh. Kemudian klik Next.
+\item Setelah itu, muncul jendela baru yang memberikan Anda beberapa pilihan komponen apa saja yang ingin Anda install beserta versi android nya. Lalu klik Next.
+\item Selanjutnya Anda akan melihat License Agreement, pilih I Agree
+\item Setelah itu, Anda akan melihat pilihan lokasi penyimpanan file. Anda tidak perlu mengubah directory yang sudah mereka pilih. Anda tinggal klik Default dan file Anda akan disimpan ke directory yang sudah mereka sediakan. Klik Next dan di layar selanjutnya klik Install.
+\item Setelah proses instalasinya selesai klik Next. Kalau sudah, Anda akan melihat windows “Completing Android Studio Setup”. Anda tidak perlu mengubah pilihan Start Android Studio dan langsung saja klik Finish.
+\item Setelah itu, Anda akan melihat jendela baru dengan 2 pilihan. Checklist pilihan kedua jika kalian belum pernah menginstall IDE Android Studio sebelumnya dan pilih OK.
+\item Setelah itu Anda akan melihat layar WELCOME dari Android Studio dan klik Next.
+\item Pilih Standard dan klik Next
+\item Anda kemudian akan melihat jendela SDK Component Setup. Pilih komponen yang ingin Anda install dan klik Next. Pada layar selanjutnya klik Finish.
+\item Anda kemudian akan melihat layar Downloading Component.
+\item Setelah unduhan Anda selesai, proses instalasi Android Studio telah selesai. Anda tinggal klik Finish. Kemudian Anda akan melihat jendela Welcome to Android Studio.
+\end{enumerate}
